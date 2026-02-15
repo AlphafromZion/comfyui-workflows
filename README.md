@@ -204,6 +204,20 @@ These aren't defaults or guesses. These are the settings I've confirmed work aft
 
 ---
 
+## ☕ Buy Me a Coffee
+
+If a workflow just worked on your AMD card or saved you hours of trial and error:
+
+<div align="center">
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-PayPal-ff6b6b.svg)](https://www.paypal.com/ncp/payment/7ABKEV8WHA3KL)
+
+**[☕ Buy me a coffee](https://www.paypal.com/ncp/payment/7ABKEV8WHA3KL)**
+
+</div>
+
+Keeps the GPUs warm and the repos coming.
+
 ## 📄 License
 
 MIT — use these workflows however you want.
