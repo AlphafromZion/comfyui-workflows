@@ -4,9 +4,9 @@ Batch generation helper for ComfyUI.
 Queues multiple prompts from a text file or generates variations of a single prompt.
 
 Usage:
-    python batch-generate.py --host 192.168.20.11 prompts.txt
-    python batch-generate.py --host 192.168.20.11 --variations "beautiful portrait" --count 5
-    python batch-generate.py --host 192.168.20.11 prompts.json
+    python batch-generate.py --host localhost prompts.txt
+    python batch-generate.py --host localhost --variations "beautiful portrait" --count 5
+    python batch-generate.py --host localhost prompts.json
 """
 
 import argparse
